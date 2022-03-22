@@ -11,7 +11,7 @@
 </div> 
 
 ---
-## 🖥️ Prévia do projeto para Web
+## 🖥️ Prévia para Web
 
 <h1 align="center">
 <br>
@@ -19,7 +19,7 @@
 <br>
 </h1>
 
-## 📱 Prévia do projeto para Mobile
+## 📱 Prévia para Mobile
 
 <h1 align="center">
 <br>

@@ -1,5 +1,4 @@
 <h1 align="center">
-<br>
   <img src="github/image/logo.png" alt="Pokémon" width="200">
 </h1>
 

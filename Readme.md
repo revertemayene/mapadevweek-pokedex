@@ -11,7 +11,7 @@
 </div> 
 
 ---
-## 🖥️ Prévia para Web
+## 🖥️ Prévia para Desktop
 
 <h1 align="center">
 <br>

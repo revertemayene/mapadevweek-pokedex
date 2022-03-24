@@ -27,9 +27,11 @@
 <br>
 </h1>
 
-## 🚀 Meus desafios
+## 🔥 Meus desafios
 <p align= "left">Meu maior desafio neste projeto foi a criação do responsivo para mobile que ainda não ficou muito claro, mas estou sempre em busca de melhorar.</p>
+<br>
 
+---
 ## 🚀 Tecnologias utilizadas
 
 ✔️ HTML5

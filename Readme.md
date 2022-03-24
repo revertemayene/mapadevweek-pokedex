@@ -5,9 +5,9 @@
 <p align="center">Este projeto foi feito no evento MapaDev Week do @devemdobro. O objetivo do evento era criarmos nosso primeiro projeto web que seria uma Pokédex. O meu projeto não ficou igual ao do evento, pois queria deixar com minha personalidade e aprender coisas novas.</p>
 
 <div align="center">
- <h3>👀 Visualize o projeto aqui</h3>
 
- [Link Projeto](https://revertemayene.github.io/projeto-pokedex/)
+ [👀 Visualize o projeto clicando aqui](https://revertemayene.github.io/projeto-pokedex/)
+
 </div> 
 
 ---
@@ -27,13 +27,16 @@
 <br>
 </h1>
 
+## 🚀 Meus desafios
+<p align= "left">Meu maior desafio neste projeto foi a criação do responsivo para mobile que ainda não ficou muito claro, mas estou sempre em busca de melhorar.</p>
+
 ## 🚀 Tecnologias utilizadas
 
-- ✔️ HTML5
+✔️ HTML5
 
-- ✔️ CSS3
+✔️ CSS3
 
-- ✔️ JavaScript
+✔️ JavaScript
 
 Feito com o 💛 por Mayene Reverte [Meu linkedIn](https://www.linkedin.com/in/mayenereverte/)
 

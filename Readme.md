@@ -31,7 +31,7 @@
 <p align= "left">Meu maior desafio neste projeto foi a criação do responsivo para mobile que ainda não ficou muito claro, mas estou sempre em busca de melhorar.</p>
 <br>
 
----
+
 ## 🚀 Tecnologias utilizadas
 
 ✔️ HTML5
@@ -39,6 +39,8 @@
 ✔️ CSS3
 
 ✔️ JavaScript
+
+<br>
 
 Feito com o 💛 por Mayene Reverte [Meu linkedIn](https://www.linkedin.com/in/mayenereverte/)
 

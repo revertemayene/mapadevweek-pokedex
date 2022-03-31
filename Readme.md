@@ -10,26 +10,33 @@
 
 </div> 
 
----
+<br>
+
 ## 🖥️ Prévia para Desktop
 
 <h1 align="center">
+
 <br>
+
   <img src="github/gifs/web.gif" alt="Pokedex" width="500">
-<br>
+
+<br><br>
 </h1>
 
 ## 📱 Prévia para Mobile
 
 <h1 align="center">
+
 <br>
+
   <img src="github/gifs/mobile.gif" alt="Pokedex" width="400">
-<br>
+
+<br><br>
 </h1>
 
 ## 🔥 Meus desafios
 <p align= "left">Meu maior desafio neste projeto foi a criação do responsivo para mobile que ainda não ficou muito claro, mas estou sempre em busca de melhorar.</p>
-<br>
+<br><br>
 
 
 ## 🚀 Tecnologias utilizadas
@@ -40,7 +47,7 @@
 
 ✔️ JavaScript
 
-<br>
+<br><br>
 
-Feito com o 💛 por Mayene Reverte [Meu linkedIn](https://www.linkedin.com/in/mayenereverte/)
+Feito com o ❤️ por Mayene Reverte [Meu linkedIn](https://www.linkedin.com/in/mayenereverte/)
 

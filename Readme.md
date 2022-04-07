@@ -2,7 +2,7 @@
   <img src="github/image/logo.png" alt="Pokémon" width="200">
 </h1>
 
-<p align="center">Este projeto foi feito no evento MapaDev Week do @devemdobro. O objetivo do evento era criarmos nosso primeiro projeto web que seria uma Pokédex. O meu projeto não ficou igual ao do evento, pois queria deixar com minha personalidade e aprender coisas novas.</p>
+<p align="center">Este projeto foi feito no evento MapaDev Week do @devemdobro. O objetivo do evento era criarmos nosso primeiro projeto web que seria uma Pokédex utilizando HTML, CSS e um pouco de JavaScript. O meu projeto não ficou igual ao do evento, pois queria deixar com minha personalidade e aprender coisas novas.</p>
 
 <div align="center">
 
@@ -50,4 +50,5 @@
 <br><br>
 
 Feito com o ❤️ por Mayene Reverte [Meu linkedIn](https://www.linkedin.com/in/mayenereverte/)
+<p>Criado em março/2022</p>
 

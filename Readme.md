@@ -29,7 +29,7 @@
 
 <br>
 
-  <img src="github/gifs/mobile.gif" alt="Pokedex" width="400">
+  <img src="github/gifs/mobile.gif" alt="Pokedex" width="250">
 
 <br><br>
 </h1>

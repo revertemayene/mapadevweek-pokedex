@@ -6,7 +6,7 @@
 
 <div align="center">
 
- [👀 Visualize o projeto clicando aqui](https://revertemayene.github.io/projeto-pokedex/)
+ [👀 Visualize o projeto clicando aqui](https://revertemayene.github.io/mapadevweek-pokedex/)
 
 </div> 
 

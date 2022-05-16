@@ -18,7 +18,7 @@
 
 <br>
 
-  <img src="github/gifs/web.gif" alt="Pokedex" width="500">
+  <img src="github/gifs/desktop.gif" alt="Pokedex" width="900">
 
 <br><br>
 </h1>

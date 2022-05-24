@@ -20,7 +20,7 @@
 
   <img src="github/gifs/desktop.gif" alt="Pokedex" width="900">
 
-<br><br>
+<br>
 </h1>
 
 ## 📱 Prévia para Mobile
@@ -31,7 +31,7 @@
 
   <img src="github/gifs/mobile.gif" alt="Pokedex" width="250">
 
-<br><br>
+<br>
 </h1>
 
 ## 🔥 Meus desafios
